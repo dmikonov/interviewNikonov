@@ -1,0 +1,9 @@
+07:18:22.878  INFO  managerTables.ApplicationManager - Current URL ---> https://www.w3schools.com/html/html_tables.asp
+07:18:22.915  INFO  managerTables.ApplicationManager - Start method with name ->>searchVerify
+07:18:22.960  INFO  managerCasino.MyListenerCasino - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+07:18:23.052  INFO  managerCasino.MyListenerCasino - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+07:18:23.122  INFO  managerCasino.MyListenerCasino - new before find by -->By.tagName: tr
+07:18:23.413  INFO  managerCasino.MyListenerCasino - WebDriver start found element by locator -->By.tagName: tr
+07:18:23.414  INFO  managerCasino.MyListenerCasino - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+07:18:23.463  INFO  managerCasino.MyListenerCasino - new before find by -->By.tagName: th
+07:18:23.546  INFO  managerCasino.MyListenerCasino - WebDriver start found element by locator -->By.tagName: th

@@ -1,0 +1,3 @@
+23:23:15.425  INFO  tablesTests.Test - Current URL ---> https://www.777.com/
+23:23:15.465  INFO  tablesTests.Test - Start method with name ->>checkEnglish
+23:23:15.518  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //div[@class='sc-pbOaj jigfBL cy-overlay']

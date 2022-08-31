@@ -1,0 +1,12 @@
+07:44:11.987  INFO  tablesTests.Test - Current URL ---> https://www.w3schools.com/html/html_tables.asp
+07:44:12.025  INFO  tablesTests.Test - Start method with name ->>searchVerify
+07:44:12.075  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+07:44:12.173  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+07:44:12.301  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+07:44:12.489  INFO  managerTables.MyListenerTables - new before find by -->By.tagName: tr
+07:44:12.702  INFO  managerTables.MyListenerTables - WebDriver start found element by locator -->By.tagName: tr
+07:44:12.703  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+07:44:12.744  INFO  managerTables.MyListenerTables - new before find by -->By.tagName: th
+07:44:12.829  INFO  managerTables.MyListenerTables - WebDriver start found element by locator -->By.tagName: th
+07:44:12.831  INFO  managerTables.MainPage - Company is 
+07:44:12.831  INFO  managerTables.MainPage - country is 

@@ -1,0 +1,9 @@
+18:02:01.782  INFO  tablesTests.Test - Current URL ---> https://www.w3schools.com/html/html_tables.asp
+18:02:01.809  INFO  tablesTests.Test - Start method with name ->>search1
+18:02:01.844  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+18:02:01.917  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+18:02:01.955  INFO  managerTables.MyListenerTables - new before find by -->By.xpath: //table[@id='customers']/tbody/tr
+18:02:02.115  INFO  managerTables.MyListenerTables - WebDriver start found element by locator -->By.xpath: //table[@id='customers']/tbody/tr
+18:02:02.147  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //*[@id='customers']/tbody/tr[2]/td[1]
+18:02:02.267  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //*[@id='customers']/tbody/tr[2]/td[3]
+18:02:02.348  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //*[@id='customers']/tbody/tr[1]/th[1]

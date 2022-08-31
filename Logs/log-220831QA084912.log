@@ -1,0 +1,19 @@
+08:49:26.641  INFO  tablesTests.Test - Current URL ---> https://www.w3schools.com/html/html_tables.asp
+08:49:26.685  INFO  tablesTests.Test - Start method with name ->>searchVerify
+08:49:26.750  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+08:49:28.408  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+08:49:28.505  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //table[@id='customers']
+08:49:28.557  INFO  managerTables.MyListenerTables - new before find by -->By.xpath: //table[@id='customers']/tbody/tr
+08:49:28.823  INFO  managerTables.MyListenerTables - WebDriver start found element by locator -->By.xpath: //table[@id='customers']/tbody/tr
+08:49:28.824  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //*[@id='customers']/tbody/tr[2]/td[1]
+08:49:28.888  INFO  managerTables.MyListenerTables - WebDriver starts find element ---> By.xpath: //*[@id='customers']/tbody/tr[3]/tr[1]
+08:49:33.934  INFO  managerTables.MyListenerTables - The name of method with error ->>>findElement
+08:49:33.945  INFO  managerTables.MyListenerTables - We have a problemorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='customers']/tbody/tr[3]/tr[1]"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'LAPTOP-GAODKJDU', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_342'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8d93d0e0957b5b3d2d4c90cbe3ace265, findElement {using=xpath, value=//*[@id='customers']/tbody/tr[3]/tr[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\Users\Dmitrii\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:63662}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63662/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d93d0e0957b5b3d2d4c90cbe3ace265
